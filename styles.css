@@ -1,0 +1,30 @@
+.whitetext {
+    color: whitesmoke;
+    text-align: center;
+    margin: 20px auto;
+    
+
+}
+.searchItem{
+    text-align: justify;
+    font-weight: bolder;
+    padding-left: 100px;
+    border: 2px solid blue;
+}
+.imageBox{
+    border: 2px solid red;
+}
+.resultCount {
+    display: none;
+    background-color: darkkhaki;
+    margin: 30px;
+    padding: 5px;
+}
+#button-search{
+    border: 3px solid coral;
+    border-radius: 8px;
+}
+#search-text{
+    border: 4px solid coral;
+    border-radius: 5px;
+}
